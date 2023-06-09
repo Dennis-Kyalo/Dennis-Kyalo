@@ -1,9 +1,9 @@
 ### Hi there! 👋
-My name is Dennis Kyalo, a current graduate student pursuing a Master’s of Science degree in Data Science at the State University of New York at Buffalo. Additionally, I hold an undergraduate degree in Bachelor of Science in Financial Engineering, from which I acquired immense knowledge and skills in Mathematics, Statistics, Finance, and R-programming. 
+My name is Dennis Kyalo, a Data Science graduate from the State University of New York at Buffalo. I also hold a Bachelor of Science degree in Financial Engineering, through which I developed extensive expertise in Mathematics, Statistics, Finance, and R-programming.
 
-My area of focus is maximizing value by applying data science to business. I have experience in data modeling, visualization, machine learning, and reporting.
+My primary focus lies in leveraging data science to drive business value. I possess robust experience in data modeling, visualization, machine learning, and reporting.
 
-I enjoy learning and using data to make informed decisions.
+I thrive on continued learning and utilize data-driven insights to inform and enhance decision-making processes."
 
 <!--
 **Dennis-Kyalo/Dennis-Kyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
