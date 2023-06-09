@@ -3,7 +3,7 @@ My name is Dennis Kyalo, a Data Science graduate from the State University of Ne
 
 My primary focus lies in leveraging data science to drive business value. I possess robust experience in data modeling, visualization, machine learning, and reporting.
 
-I thrive on continued learning and utilize data-driven insights to inform and enhance decision-making processes."
+I thrive on continued learning and utilize data-driven insights to inform and enhance decision-making processes.
 
 <!--
 **Dennis-Kyalo/Dennis-Kyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
